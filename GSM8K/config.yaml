@@ -1,0 +1,11 @@
+cuda_devices: 4,5,6,7
+num_cuda_devices: 4
+port: 1234
+base_path: /home/anonymous/LLM2LLM/llama2_0.1_chatgpt_10steps_1example
+seed_data_path: /home/anonymous/LLM2LLM/GSM8K/data/gsm_0.01.json
+steps: 10
+grad_acc_steps: 32
+instructions_per_seed_task: 1
+generation_model: gpt-3.5-turbo
+base_model: /home/anonymous/llama_2_7b
+epochs: 3

@@ -1,0 +1,11 @@
+numpy
+rouge_score
+fire
+openai==0.28.1
+transformers>=4.34.1
+torch
+sentencepiece
+tokenizers
+wandb
+accelerate
+shortuuid
