@@ -26,6 +26,18 @@ to get a detailed breakdown of the performance of the model at each iteration.
 
 This will produce an output folder that contains all the data and model checkpoints.
 
-## Reproducing other experiments
+## Roadmap
 
-We will upload this code soon.
+We are planning on adding the code required to reproduce our experiments on other datasets.
+
+## Citation
+
+LLM2LLM has been developed as part of the following paper. We would appreciate if you would please cite this paper if you found this library useful for your work:
+
+```
+@article{lee2024llm2llm,
+      title={LLM2LLM: Boosting LLMs with Novel Iterative Data Enhancement}, 
+      author={Lee, Nicholas and Wattanawong, Thanakul and Kim, Sehoon and Mangalam, Karttikeya and Shen, Sheng and Anumanchipali, Gopala and Mahoney, Michael W and Keutzer, Kurt and Gholami, Amir},
+      journel={arXiv},
+      year={2024},
+}
