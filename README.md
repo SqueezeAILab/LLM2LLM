@@ -1,4 +1,4 @@
-# LLM2LLM: Boosting LLMs with Novel Iterative Data Enhancement
+# LLM2LLM: Boosting LLMs with Novel Iterative Data Enhancement [[Paper](https://arxiv.org/abs/2403.15042)]
 
 ![Thumbnail](figs/llm2llm.png)
 
